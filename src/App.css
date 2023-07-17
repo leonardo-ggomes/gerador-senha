@@ -1,0 +1,29 @@
+.container{
+   background-color: #fafafa;
+   border-radius: 5px;
+   padding: 70px;
+   text-align: center;
+}
+
+button{
+    min-height: 30px;
+    min-width: 75px;
+    margin: 10px;
+    padding: 5px;
+    cursor: pointer;
+}
+
+.btn-contained{
+    border: none;
+    border-radius: 4px;
+    color: white;
+    background-color: #36ca07;
+}
+
+
+.btn-outlined{
+    border-radius: 4px;
+    background-color: transparent;
+    border: 1px solid black;
+    color: black;
+}
